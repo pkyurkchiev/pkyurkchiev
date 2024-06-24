@@ -20,6 +20,6 @@ Feel free to ask me about software development, leading a development team, or t
 
 ### 📫 How to reach me
 
-If you're interested in discussing potential opportunities, collaborations, or just want to chat about technology, feel free to reach out to me at [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">]([pavkyu@gmail.com]) or connect with me on [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">]([https://www.linkedin.com/in/pkyurkchiev/])
+If you're interested in discussing potential opportunities, collaborations, or just want to chat about technology, feel free to reach out to me at [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">]([https://www.linkedin.com/in/pkyurkchiev/])
 
 ### ⚡ Fun fact
