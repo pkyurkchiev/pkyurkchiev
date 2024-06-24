@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a seasoned software developer lead, and an Assistant Professor at the University of Plovdiv. My journey in the tech industry has been fueled by a passion for creating impactful software solutions and a commitment to nurturing the next generation of tech talent.
 
-### 🔭 Professional Experience
+### 🔭 Professional Journey
 
 With years of experience under my belt, I've had the privilege of working on a wide array of projects, from innovative startups to large-scale enterprise solutions. My expertise lies in crafting scalable, efficient, and robust software that meets and exceeds the demands of users and stakeholders alike.
 As a development lead, I've guided teams through the complexities of software development, ensuring projects are delivered on time, within budget, and with the highest quality standards.
@@ -20,6 +20,6 @@ Feel free to ask me about software development, leading a development team, or t
 
 I'm on the lookout for opportunities to lead interesting projects and manage larger teams. I thrive in environments that challenge me and allow me to leverage my skills in software development and team leadership to make a significant impact.
 
-### 📫 How to reach me
+### 📫 Let's Connect
 
 If you're interested in discussing potential opportunities, collaborations, or just want to chat about technology, feel free to reach out to me at [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/pkyurkchiev/)
