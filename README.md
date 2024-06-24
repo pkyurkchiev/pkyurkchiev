@@ -14,8 +14,6 @@ At the University of Plovdiv, I teach a range of subjects, imparting my knowledg
 
 I believe in lifelong learning and am always looking to expand my skills and knowledge. Currently, I'm exploring the latest trends and advancements in software development, particularly in the areas of cloud computing and machine learning.
 
-### 💬 Ask me about
-
 Feel free to ask me about software development, leading a development team, or teaching at the university level. I'm always happy to help and share my knowledge.
 
 ### 📫 How to reach me
