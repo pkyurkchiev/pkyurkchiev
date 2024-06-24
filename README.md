@@ -1,6 +1,6 @@
 ## Hello, I'm Pavel Kyurkchiev! 👋
 
-Welcome to my GitHub profile! I'm a seasoned software developer, a development lead, and an Assistant Professor at the University of Plovdiv. My journey in the tech industry has been fueled by a passion for creating impactful software solutions and a commitment to nurturing the next generation of tech talent.
+Welcome to my GitHub profile! I'm a seasoned software developer lead, and an Assistant Professor at the University of Plovdiv. My journey in the tech industry has been fueled by a passion for creating impactful software solutions and a commitment to nurturing the next generation of tech talent.
 
 ### 🔭 Professional Experience
 
